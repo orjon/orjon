@@ -5,7 +5,7 @@ I care about good design, clean code, and building performant things that are us
 
 
 
-[![orjon.com](https://img.shields.io/badge/orjon.com-white?style=flat)](https://www.orjon.com)
+[![orjon.com](https://img.shields.io/badge/orjon.com-FF00FF?style=for-the-badge)](https://www.orjon.com?utm_source=github&utm_medium=profile)
 
 
 
@@ -31,17 +31,23 @@ I care about good design, clean code, and building performant things that are us
 **Frameworks, Platforms & Libraries**
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white#gh-light-mode-only)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black#gh-dark-mode-only)](https://nextjs.org)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://socket.io)
-[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
-[![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=authjs&logoColor=white)](https://authjs.dev)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)](https://www.chartjs.org)
-[![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)](https://www.mapbox.com)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white#gh-light-mode-only)](https://expressjs.com)
+[![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black#gh-dark-mode-only)](https://expressjs.com)
+[![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=authjs&logoColor=white#gh-light-mode-only)](https://authjs.dev)
+[![NextAuth](https://img.shields.io/badge/NextAuth-ffffff?style=flat-square&logo=authjs&logoColor=black#gh-dark-mode-only)](https://authjs.dev)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white#gh-light-mode-only)](https://socket.io)
+[![Socket.io](https://img.shields.io/badge/Socket.io-ffffff?style=flat-square&logo=socketdotio&logoColor=black#gh-dark-mode-only)](https://socket.io)
 [![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)](https://www.i18next.com)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white#gh-light-mode-only)](https://ui.shadcn.com)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-ffffff?style=flat-square&logo=shadcnui&logoColor=black#gh-dark-mode-only)](https://ui.shadcn.com)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)](https://www.chartjs.org)
+[![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white#gh-light-mode-only)](https://www.mapbox.com)
+[![Mapbox](https://img.shields.io/badge/Mapbox-ffffff?style=flat-square&logo=mapbox&logoColor=black#gh-dark-mode-only)](https://www.mapbox.com)
 
 **State Management**
 
@@ -60,9 +66,11 @@ I care about good design, clean code, and building performant things that are us
 **Tools & Platforms**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white#gh-light-mode-only)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=black#gh-dark-mode-only)](https://github.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white#gh-light-mode-only)](https://vercel.com)
+[![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black#gh-dark-mode-only)](https://vercel.com)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
