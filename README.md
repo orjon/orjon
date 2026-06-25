@@ -1,7 +1,7 @@
 # Hello
 
 I'm a full-stack developer based in London.</br>
-I care about good design, clean code, and building performant things that are useful.
+I care about clean code, good design, and building performant things that are useful.
 
 
 
