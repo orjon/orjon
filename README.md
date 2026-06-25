@@ -1,6 +1,6 @@
 # Hello
 
-I'm a front-end-focused full-stack developer based in London.</br>
+I'm a full-stack developer based in London.</br>
 I care about good design, clean code, and building performant things that are useful.
 
 
